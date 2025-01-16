@@ -1,0 +1,3 @@
+C:/Users/gabri/OneDrive/Documentos/UFRGS/FPI/Trab1/Trabalho_1/build/CMakeFiles/FPI_T1.dir
+C:/Users/gabri/OneDrive/Documentos/UFRGS/FPI/Trab1/Trabalho_1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/gabri/OneDrive/Documentos/UFRGS/FPI/Trab1/Trabalho_1/build/CMakeFiles/ZERO_CHECK.dir

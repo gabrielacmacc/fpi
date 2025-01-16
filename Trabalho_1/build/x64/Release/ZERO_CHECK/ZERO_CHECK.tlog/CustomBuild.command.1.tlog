@@ -1,0 +1,10 @@
+^C:\USERS\GABRI\ONEDRIVE\DOCUMENTOS\UFRGS\FPI\TRAB1\TRABALHO_1\BUILD\CMAKEFILES\2D1CCA51700FCF6043220C5E63EFC975\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/gabri/OneDrive/Documentos/UFRGS/FPI/Trab1/Trabalho_1 -BC:/Users/gabri/OneDrive/Documentos/UFRGS/FPI/Trab1/Trabalho_1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/gabri/OneDrive/Documentos/UFRGS/FPI/Trab1/Trabalho_1/build/FPI_T1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
